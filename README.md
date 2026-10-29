@@ -55,4 +55,4 @@ Cada pasta de projeto terá o próprio README com diagrama, como fazer o deploy,
 
 ## Contato
 
-- LinkedIn: [<!-- adicione seu link -->](https://www.linkedin.com/in/pietroaandrade/)
+- LinkedIn: [@pietroaandrade](https://www.linkedin.com/in/pietroaandrade/)
